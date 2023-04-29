@@ -1,7 +1,7 @@
 # company-frame
 
 #### Description
-springboot2.0+shiro+jwt+layui+thymeleaf+swagger+mybatis后台权限管理系统前后端分离。 权限控制的方式为 RBAC。代码通熟易懂 、JWT（无状态token）过期自动刷新，数据全程 ajax 获取，封装 ajax 工具类、菜单无线层级展示，解决 layui.tree 树形组件，回显问题。数据交互都是以 JSON 格式交互。后台接口RESTful 风格，支持前后端分离，app公用一套接口。 
+springboot2.0+shiro+jwt+layui+thymeleaf+swagger+mybatis background authority management system is separated from the front end. The access control method is RBAC. The code is familiar and easy to understand, the JWT (stateless token) is automatically refreshed when it expires, the data is acquired through ajax throughout the process, the ajax tool class is encapsulated, the menu is displayed in a wireless hierarchy, and the layui.tree tree component and the echo problem are solved. All data interactions are in JSON format. The background interface is RESTful style, supports the separation of front and back ends, and the app shares a set of interfaces. 
 
 #### Software Architecture
 Software architecture description
