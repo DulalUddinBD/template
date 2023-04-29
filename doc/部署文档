@@ -1,6 +1,6 @@
-1. 下载redis 启动redis
-2. 创建company_frame数据库
-3. 导入company_frame.sql
-4. 启动项目
-5. 接口文档访问 http://localhost:8080/swagger-ui.html#/
-6. 登录地址 http://localhost:8080/index/login
+1. Download redis and start redis
+2. Create company_frame database
+3. import company_frame.sql
+4. Startup project
+5. Interface Documentation Access Interface Documentation Access http://localhost:8080/swagger-ui.html
+6.login address http://localhost:8080/index/login
