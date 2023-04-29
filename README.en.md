@@ -5,6 +5,15 @@ springboot2.0+shiro+jwt+layui+thymeleaf+swagger+mybatis background authority man
 
 #### Software Architecture
 Software architecture description
+Core framework: spring boot 2.1.6
+Persistence layer framework: mybatis
+Database connection pool: alibaba druid
+Security Framework: Apache Shiro
+Stateless JWT
+Cache framework: redis (custom RedisTemplate serialization)
+Logging framework: logback
+Interface documentation: swagger 2.9.2
+Front-end template: thymeleaf+layui2x
 
 #### Installation
 
@@ -14,9 +23,12 @@ Software architecture description
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Download redis and start redis
+2. Create company_frame database
+3. import company_frame.sql
+4. Startup project
+5. Interface Documentation Access Interface Documentation Access http://localhost:8080/swagger-ui.html
+6. login address http://localhost:8080/index/login
 
 #### Contribution
 
